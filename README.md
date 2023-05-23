@@ -8,6 +8,6 @@ Using the Obspy library, a new procedure to read and plot the PRSN waveforms dat
 https://journals.sagepub.com/doi/full/10.1177/87552930211033622
 
 # Usage
-1. git clone https://github.com/
+1. git clone https://github.com/danielchaco/p-wave.git
 2. pip install -r requirements.txt
 3. run the jupyter notebook step by step.
